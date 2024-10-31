@@ -1,5 +1,5 @@
 - name: variables to print
-  hoss: web
+  hosts: web
   vars:
    COURSE: "Devops with Aws"
    TIME: "120 hours"
